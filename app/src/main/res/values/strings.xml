@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Purfa</string>
+    <string name="edit_message">edit_message</string>
+    <string name="button_send">Send</string>
+
+    <!-- MAIN ACTIVITY -->
+    <string name="button_enroll">Enroll</string>
+
+    <!-- ENROLL ACTIVITY -->
+    <string name="edit_enroll">Nombre del usuario</string>
+
+    <!-- IMAGES ALT -->
+    <string name="ic_background_door_alt">sample image</string>
+    <string name="button_take_photo">Agregar foto</string>
+    <string name="button_end_enroll">Finalizar!</string>>
+</resources>
